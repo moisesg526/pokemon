@@ -1,0 +1,57 @@
+.main-container {
+  background-image: linear-gradient(#b5f1cc, #e5fdd1, #c9f4aa);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nameForm {
+  text-align: center;
+  padding: 20px;
+}
+
+.heading {
+  text-align: center;
+  font-family: 'Pokemon Solid', sans-serif;
+  color: #FED049;
+  -webkit-text-stroke: 3px #3C84AB;
+  padding-top: 20px;                                 
+}
+
+.pokemonInfo {
+  border: 2px solid #000;
+  border-radius: 20px;
+  background-color: #c7f2a4;
+  overflow: auto;
+  padding: 5px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.pokemon-info-left {
+  color: #fff;
+}
+
+.dark-green {
+  background-color: #a8e890;
+}
+
+.light-green {
+  background-color: #b3ffae;
+}
+
+.yellow {
+  background-color: #fcffb2;
+}
+
+.light {
+  background-color: #f9f9c5;
+}
+
+.sub-btn {
+  background-color: #baffb4;
+  border-radius: 10px;
+  font-family: "Unbounded", cursive;
+}
+
+#enterName {
+    font-family: 'Roboto Mono', monospace;
+}
