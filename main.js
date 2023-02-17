@@ -19,8 +19,8 @@ function getPokemon(e) {
         .map((move) => move.move.name)
         .slice(0, 5)
         .join(", ");
-// The pokemon image is displayed depending on the id of the pokemon.
-// The id to a img tag is set to pokemon-image with a blank src. Thr src is updated with the image link.
+      // The pokemon image is displayed depending on the id of the pokemon.
+      // The id to a img tag is set to pokemon-image with a blank src. Thr src is updated with the image link.
       const img_link = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${data.id}.png`;
       document.getElementById("pokemon-image").setAttribute("src", img_link);
     })
