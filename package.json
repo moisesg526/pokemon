@@ -1,0 +1,19 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Search for any Pokemon you like. By name or ID.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisesg526/pokemon.git"
+  },
+  "author": "Moises Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moisesg526/pokemon/issues"
+  },
+  "homepage": "https://github.com/moisesg526/pokemon#readme"
+}
